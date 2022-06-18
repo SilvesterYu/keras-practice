@@ -5,4 +5,6 @@ A keras practice
 
 **dataset**: [download here](https://www.microsoft.com/en-us/download/details.aspx?id=54765) and unzip it. Inside the unzipped folder there is a `PetImages` folder. Move it into the repository folder so its path is `keras-practice/PetImages`.
 
+When running for a first time, uncomment all the code.
 
+If loading pretrained weights for detection tests is needed, comment out the training section.
